@@ -9,10 +9,30 @@
 <article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="user-content-️-forrest-knight" class="anchor" aria-hidden="true" tabindex="-1" href="#️-forrest-knight"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🏄‍♂️ Bruno Stark</h1>
 <p dir="auto"><strong><code>Thinking beyond the box</code></strong></p>
  <p>
-  Hi i'm Bruno a passionate of software developement and computer related fields. I build softwares and web applications with techologies such as JAVA, ElectronJS, ReactJS, PHP and MySQL.
- I'm actually learning more about JAVA Data structures and i'm planning to later migrate to Kotlin for KMM development. 
- You can get in touch with me through my Whatsapp number +237 691 11 23 97.
- I am available to work with anyone needing additional help on a project.
+🚀 **Passionate Software Developer | 2 Years Industry Experience + 3 Years Freelancing**
+
+Hey there! 👋 I'm Bruno Elombo a.k.a Bruno Stark, a results-driven software developer with a dynamic blend of industry expertise and freelancing experience. Over the past 2 years, I've honed my skills in fast-paced company environments, while the last 3 years have seen me thrive as a freelancer. My passion lies in crafting innovative solutions that not only meet but exceed expectations.
+
+**🛠️ Tech Stack:**
+- Languages: HTML, CSS, JavaScript, Python, Java
+- Frontend: ReactJS, AngularJS, React Native
+- Backend: Spring Boot, ExpressJS
+- Database: MySQL, Prisma
+- Version Control: Git, GitHub
+- Styling: Tailwind CSS
+
+**👨‍💻 What Sets Me Apart:**
+- **Innovation First:** I love exploring new technologies and methodologies, always eager to bring fresh perspectives to projects.
+- **Full-Stack Expertise:** From crafting intuitive user interfaces to optimizing backend performance, I've got the full-stack covered.
+- **Effective Collaboration:** Whether with development teams or clients, I thrive on clear communication and collaborative problem-solving.
+
+**🔗 Let's Connect:**
+- 🌐 Portfolio: [brunoelombo.ideaboxtech.com]
+- 📧 Email: [brunoelombo@gmail.com]
+- 🔗 LinkedIn: [(https://www.linkedin.com/in/bruno-elombo-73636b230/)]
+
+Ready to elevate your projects with a developer who's not just about code but about delivering exceptional solutions? Let's build something amazing together! 🚀
+
  </p>
    <p align="left" dir="auto">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1" rel="nofollow">
@@ -44,5 +64,5 @@
 <h1 dir="auto"></h1>
 <details>
  <summary><h3 tabindex="-1" dir="auto"><a id="user-content--forrests-coding-journey" class="anchor" aria-hidden="true" tabindex="-1" href="#-forrests-coding-journey"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+   
 </details></article>
