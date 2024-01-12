@@ -31,7 +31,7 @@ Hey there! 👋 I'm Bruno Elombo a.k.a Bruno Stark, a results-driven software de
 **🔗 Let's Connect:**
 - 🌐 Portfolio: [brunoelombo.ideaboxtech.com]
 - 📧 Email: [brunoelombo@gmail.com]
-- 🔗 LinkedIn: [(https://www.linkedin.com/in/bruno-elombo-73636b230/)]
+- 🔗 LinkedIn: [https://www.linkedin.com/in/bruno-elombo-73636b230/]
 
 Ready to elevate your projects with a developer who's not just about code but about delivering exceptional solutions? Let's build something amazing together! 🚀
 
