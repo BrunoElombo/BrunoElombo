@@ -21,8 +21,8 @@ Hey there! 👋 I'm Bruno Elombo a.k.a Bruno Stark, a results-driven software de
 - Version Control: Git, GitHub
 - Styling: Tailwind CSS
 
-** Graphic Design :**
-- Adobe XD, Adobe Illustrator, Adobe Photoshop
+**Graphic Design :**
+- Adobe XD, Adobe Illustrator, Adobe Photoshop, Canva
 
 **👨‍💻 What Sets Me Apart:**
 - **Innovation First:** I love exploring new technologies and methodologies, always eager to bring fresh perspectives to projects.
