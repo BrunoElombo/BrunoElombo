@@ -5,24 +5,10 @@
 - 📫 How to reach me ...
  -->
  <h1>Bruno Stark</h1>
- <h4>thinking beyond the box</h4>
- Hi i'm Bruno a passionate of software developement and computer related fields. I build softwares and web applications with techologies such as JAVA, ElectronJS, ReactJS, PHP and MySQL.
- I'm actually learning more about JAVA Data structures and i'm planning to later migrate to Kotlin for KMM development. 
- You can get in touch with me through my Whatsapp number +237 691 11 23 97.
- I am available to work with anyone needing additional help on a project.
-<!---
-BrunoElombo/BrunoElombo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<hr/>
-<h3 tabindex="-1" dir="auto"><a id="user-content--languages-and-tools" class="anchor" aria-hidden="true" tabindex="-1" href="#-languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🧰 Languages and Tools</h3>
-
-
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/973913d161ca9ac03d1e941e3c0a9785dd928059a48274ed2b3ff564b5c564b2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667"><img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/973913d161ca9ac03d1e941e3c0a9785dd928059a48274ed2b3ff564b5c564b2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;"></a></p>
-
-
+ <h4></h4>
+ 
 <article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="user-content-️-forrest-knight" class="anchor" aria-hidden="true" tabindex="-1" href="#️-forrest-knight"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🏄‍♂️ Bruno Stark</h1>
-<p dir="auto"><strong><code>Digital Craftsman (Developer/Filmmaker/Creator)</code></strong></p>
+<p dir="auto"><strong><code>Thinking beyond the box</code></strong></p>
    <p align="left" dir="auto">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1" rel="nofollow">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/e0d3fbaffd437da64c78cc8579fa204b36c744bf9627c76f6a5b9f11279814db/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f796f75747562652f6368616e6e656c2f73756273637269626572732f55433257486a5044766245364f3332386e31375a476366673f636f6c6f723d253233453035443434266c6162656c3d535542534352494245266c6f676f3d766964656f266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d434534363330" data-canonical-src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&amp;label=SUBSCRIBE&amp;logo=video&amp;logoColor=white&amp;style=for-the-badge&amp;labelColor=CE4630" style="max-width: 100%;"></a> 
