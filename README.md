@@ -20,6 +20,7 @@ Hey there! 👋 I'm Bruno Elombo a.k.a Bruno Stark, a results-driven software de
 - Database: MySQL, Prisma
 - Version Control: Git, GitHub
 - Styling: Tailwind CSS
+
 ** Graphic Design :**
 - Adobe XD, Adobe Illustrator, Adobe Photoshop
 
