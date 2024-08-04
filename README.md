@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
  -->
  <h4></h4>
  <img src="https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064" style="width:100%; height: auto;" />
@@ -13,7 +12,7 @@
  <h1 align="center">Hi👋, I'm Bruno Elombo</h1>
 <h3 align="center">A passionate FullStack Developer from Cameroon</h3>
  <p>
-**🚀Passionate Software Developer | 2 Years Industry Experience + 3 Years Freelancing**
+<h3>🚀Passionate Software Developer | 2 Years Industry Experience + 3 Years Freelancing</h3>
 
 I am a results-driven software developer with a dynamic blend of industry expertise and freelancing experience. Over the past 2 years, I've honed my skills in fast-paced company environments, while the last 3 years have seen me thrive as a freelancer. My passion lies in crafting innovative solutions that not only meet but exceed expectations.
 <!--
