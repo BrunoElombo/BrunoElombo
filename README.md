@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2cab8b16-71e1-4d61-b048-a86f5bffc000)<!-- - 👋 Hi, I’m @BrunoElombo
+<!-- - 👋 Hi, I’m @BrunoElombo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -60,59 +60,73 @@ I am a results-driven software developer with a dynamic blend of industry expert
 <!-- <video src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" style="width:100%; height: 300px"/>
 <h3 tabindex="-1" dir="auto"><a id="user-content--languages-and-tools" class="anchor" aria-hidden="true" tabindex="-1" href="#-languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🧰 Languages and Tools</h3> -->
 
- <!--Spring -->
-<p dir="auto"><i class="devicon-express-original-wordmark"></i>
+ <!--JAVA -->
+ <p dir="auto">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30px" />
+  </a>
 </p>
 
- <!--JAVA -->
- <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/973913d161ca9ac03d1e941e3c0a9785dd928059a48274ed2b3ff564b5c564b2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667"><img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/973913d161ca9ac03d1e941e3c0a9785dd928059a48274ed2b3ff564b5c564b2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;"></a></p>
-
 <!--TypeScript -->
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ac2c78e8df70559d7d499277c0e6c195c7768920d51b9b99dd4c98d4ff540123/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d706c61696e2e737667"><img align="left" alt="TypeScript" width="30px" src="https://camo.githubusercontent.com/ac2c78e8df70559d7d499277c0e6c195c7768920d51b9b99dd4c98d4ff540123/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="max-width: 100%;"></a></p>
+<p dir="auto">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px" />
+  </a>
+</p>
 
-<!--Angular -->
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3f7abb980c50b9606ed225fe1de36a34d609f6c75e566d8f05685f24b1335855/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e67756c61726a732f616e67756c61726a732d706c61696e2e737667"><img align="left" alt="Angular" width="30px" src="https://camo.githubusercontent.com/3f7abb980c50b9606ed225fe1de36a34d609f6c75e566d8f05685f24b1335855/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e67756c61726a732f616e67756c61726a732d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" style="max-width: 100%;"></a></p>
-
-<!--Git -->
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667"><img align="left" alt="Git" width="30px" src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;"></a></p>
-
-<!--Linux -->
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b1860f79585f66ec30ea75ab253e4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667"><img align="left" alt="Linux" width="30px" src="https://camo.githubusercontent.com/5b2a8527be6ce73521cdb521a1033b92ff7b1860f79585f66ec30ea75ab253e4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width: 100%;"></a></p>
 
 <!--HTML -->
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" 
-href="https://camo.githubusercontent.com/7a982fd7ff2590bd9c4c0c804d36ec84f4b6a54ce4a062e939b1455f619bf975/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667"><img align="left" alt="HTML" width="30px" src="https://camo.githubusercontent.com/7a982fd7ff2590bd9c4c0c804d36ec84f4b6a54ce4a062e939b1455f619bf975/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 100%;"></a></p>
+<p dir="auto">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" />
+  </a>
+</p>
 
 <!--CSS -->
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3902a23a4ee524225c3626a76a19391fe4a457e9c70e331e7d51abdfa1d76dbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667"><img align="left" alt="CSS" width="30px" src="https://camo.githubusercontent.com/3902a23a4ee524225c3626a76a19391fe4a457e9c70e331e7d51abdfa1d76dbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%;"></a></p>
+<p dir="auto">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" />
+  </a>
+</p>
 
 <!--JavaScript -->
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3d0ddeed2c709ed1cbce62a9c624d0f719d5ed695567a2eef03d61a70c7ff336/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667"><img align="left" alt="JavaScript" width="30px" src="https://camo.githubusercontent.com/3d0ddeed2c709ed1cbce62a9c624d0f719d5ed695567a2eef03d61a70c7ff336/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a></p>
+<p dir="auto">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" />
+  </a>
+</p>
 
 <!--React -->
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aed5f69c00ea3fd8c8bc70b89d236efae340eb3024526fd11bcba51c80c4aa40/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img align="left" alt="React" width="30px" src="https://camo.githubusercontent.com/aed5f69c00ea3fd8c8bc70b89d236efae340eb3024526fd11bcba51c80c4aa40/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"></a></p>
+<p dir="auto">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px" />
+  </a>
+</p>
 
 <!--NodeJS -->
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2cde166000bd4271614ef8c0a7e435af8a087c05f4d5a36f1945663d363bd463/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667"><img align="left" alt="NodeJS" width="30px" src="https://camo.githubusercontent.com/2cde166000bd4271614ef8c0a7e435af8a087c05f4d5a36f1945663d363bd463/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;"></a></p>
-
-<!--Python -->
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0d5534dd6a655164d3127c270557a5e39450dec8c22f71a9830359b6bd8e749b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30px" />
-          </a></p>
+<p dir="auto">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30px" />
+  </a>
+</p>
 
 <!--Github -->
 <p dir="auto">
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e245c978ad271d30dcbfa637b0aad42d3532c5fa467a778e01c2210ed6c5ef81/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"><img align="left" alt="GitHub" width="30px" src="https://camo.githubusercontent.com/e245c978ad271d30dcbfa637b0aad42d3532c5fa467a778e01c2210ed6c5ef81/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%;"></a></p>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30px" />
+  </a>
+</p>
 <br>
 <p></p>
 <p>Ready to elevate your projects with a developer who's not just about code but about delivering exceptional solutions? Let's build something amazing together! 🚀</p>
 <hr />
 <br>
 <h1 dir="auto"></h1>
-<details>
+<!-- <details>
  <summary>
   <h3>👨‍💻 Bruno's Coding Journey</h3>
   <p></p>
  </summary>
    
-</details></article>
+</details> -->
+</article>
