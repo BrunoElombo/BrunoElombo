@@ -59,33 +59,33 @@ I am a results-driven software developer with a dynamic blend of industry expert
 
 <div style="display:flex; align-items:center;">
     <!--JAVA -->
-    <p dir="auto">
+    <span dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30px" />
      </a>
-   </p>
+   </span>
    
    <!--TypeScript -->
-   <p dir="auto">
+   <span dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px" />
      </a>
-   </p>
+   </span>
    
    
    <!--HTML -->
-   <p dir="auto">
+   <span dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" />
      </a>
-   </p>
+   </span>
    
    <!--CSS -->
-   <p dir="auto">
+   <span dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" />
      </a>
-   </p>
+   </span>
    
    <!--JavaScript -->
    <p dir="auto">
@@ -95,11 +95,11 @@ I am a results-driven software developer with a dynamic blend of industry expert
    </p>
    
    <!--React -->
-   <p dir="auto">
+   <span dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px" />
      </a>
-   </p>
+   </span>
    
    <!--NodeJS -->
    <p dir="auto">
@@ -109,11 +109,11 @@ I am a results-driven software developer with a dynamic blend of industry expert
    </p>
    
    <!--Github -->
-   <p dir="auto">
+   <span dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30px" />
      </a>
-   </p>
+   </span>
 </div>
 <br>
 <p></p>
