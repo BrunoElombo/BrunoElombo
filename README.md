@@ -29,14 +29,7 @@ I am a results-driven software developer with a dynamic blend of industry expert
 **Graphic Design :**
 - Adobe XD, Adobe Illustrator, Adobe Photoshop, Canva
 -->
-### 👋 Hi, I'm Bruno
-I'm a Fullstack Software Engineer passionate about building clean, scalable, and performant web apps.
 
-💼 5+ years of experience | Node.js • React • TypeScript  
-🚀 Interested in remote opportunities  
-🛠️ I build APIs, dashboards, and real-time apps
-
-📫 Reach me at brunoelombo@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
