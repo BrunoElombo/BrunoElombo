@@ -88,11 +88,11 @@ I am a results-driven software developer with a dynamic blend of industry expert
    </span>
    
    <!--JavaScript -->
-   <p dir="auto">
+   <span dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" />
      </a>
-   </p>
+   </span>
    
    <!--React -->
    <span dir="auto">
@@ -102,11 +102,11 @@ I am a results-driven software developer with a dynamic blend of industry expert
    </span>
    
    <!--NodeJS -->
-   <p dir="auto">
+   <span dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30px" />
      </a>
-   </p>
+   </span>
    
    <!--Github -->
    <span dir="auto">
@@ -114,6 +114,7 @@ I am a results-driven software developer with a dynamic blend of industry expert
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30px" />
      </a>
    </span>
+   
 </div>
 <br>
 <p></p>
